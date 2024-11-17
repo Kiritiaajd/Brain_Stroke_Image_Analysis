@@ -1,0 +1,15 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Deep Learning Framework
+torch==2.2.0
+torchvision==0.16.1
+
+# Image Processing
+opencv-python
+Pillow
+albumentations
+
