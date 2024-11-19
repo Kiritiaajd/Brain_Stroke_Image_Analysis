@@ -1,4 +1,4 @@
-# CT SCAN BRAIN STROKE IMAGEE ANALYSIS
+# CT SCAN BRAIN STROKE IMAGE ANALYSIS
 **Description:**  
 A machine learning project leveraging PyTorch for [specific goal of the project, e.g., image classification, object detection, etc.]. This project aims to [describe the primary objective, e.g., achieve high accuracy, deploy a robust model, etc.].
 
