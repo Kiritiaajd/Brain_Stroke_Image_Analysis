@@ -34,7 +34,7 @@ A machine learning project leveraging PyTorch for [specific goal of the project,
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git
-   cd your-repo-name
+   cd BRAIN-STROKE-PREDICTION
    ```
 2. Create a virtual environment:
    ```bash
