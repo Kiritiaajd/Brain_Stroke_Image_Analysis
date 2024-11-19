@@ -33,7 +33,7 @@ A machine learning project leveraging PyTorch for [specific goal of the project,
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git
    cd your-repo-name
    ```
 2. Create a virtual environment:
