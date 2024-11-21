@@ -141,7 +141,7 @@ python evaluate.py --model_path path/to/saved/model.pth
 
 ## Project Structure
 ```
-project-name/
+CT SCAN Brain Stroke/
 ├── data/                # Dataset folder
 ├── models/              # PyTorch models
 ├── scripts/             # Helper scripts
