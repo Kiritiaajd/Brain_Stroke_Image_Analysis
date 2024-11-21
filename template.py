@@ -32,6 +32,7 @@ list_of_files = [
     "src/database/mongodb_connection.py",
     "src/database/mogodb_crud.py",
     "src/database/__init__.py",
+    ".gitignore"
     
 ]
 
